@@ -46,36 +46,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/robinyqc
-    # - icon: fontawesome/brands/linkedin
-    #   link: https://www.linkedin.com/in/walkccc/
-    # - icon: fontawesome/solid/code
-    #   link: https://walkccc.me/LeetCode
-#   analytics:
-#     provider: google
-#     property: G-117404761-1
 
 extra_javascript:
   - js/mathjax/tex-chtml.js
-
-# extra_css:
-#   - css/katex.css
-#   - css/custom.css
-#   - https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css
-
-# extra_javascript:
-#   - https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/mathjax/3.2.0/es5/tex-chtml.min.js
-#   - https://polyfill.io/v3/polyfill.min.js?features=es6
-
-# markdown_extensions:
-#   - pymdownx.arithmatex:
-#     generic: true
-
-# extra_javascript:
-#   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js
-
-# plugins:
-#   - offline:
-#       enabled: !ENV [OFFLINE, false]
 
 
 # Extensions
