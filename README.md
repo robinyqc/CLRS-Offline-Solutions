@@ -1,9 +1,8 @@
 <p align="center">
   <img src="https://i.imgur.com/ESwjKaR.png" height="150" alt="CLRS">
 </p>
+# Solutions to **Introduction to Algorithms** *Third Edition*
 
-<div align="center">
-# Solutions to **Introduction to Algorithms** _Third Edition_
 
 ###### *Off-line Edition*
 
