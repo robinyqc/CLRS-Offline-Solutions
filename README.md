@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://i.imgur.com/ESwjKaR.png" height="150" alt="CLRS">
 </p>
-# Solutions to **Introduction to Algorithms** *Third Edition*
 
+<div align="center">
+
+# Solutions to **Introduction to Algorithms** _Third Edition_
 
 ###### *Off-line Edition*
-
-
 
 *Author:  [walkccc](https://github.com/walkccc)*
 
@@ -14,21 +14,19 @@
 
 *Off-line edition author:  [robinyqc](https://github.com/robinyqc)*
 
+📚 _A crowdsourced work contributed from nice people all around the world._
 
+![](https://img.shields.io/badge/GitHub%20Pages-121011.svg?logo=github&style=flat-square)
+![](https://img.shields.io/badge/Material%20UI-0081CB.svg?logo=material-ui&style=flat-square)
+![](https://img.shields.io/badge/Markdown-239120.svg?logo=markdown&style=flat-square)
+![](https://img.shields.io/badge/KaTeX-008080.svg?logo=latex&style=flat-square)
+<br/>
+![](https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square)
+[![](https://img.shields.io/github/contributors/walkccc/CLRS.svg?style=flat-square)](https://github.com/walkccc/CLRS/graphs/contributors)
+[![](https://img.shields.io/github/license/walkccc/CLRS.svg?style=flat-square)](./LICENSE)
 
-<div align="center">
-  <span>📚 <i>A crowdsourced work contributed from nice people all around the world.</i></span>
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-121011.svg?logo=github&style=flat-square">
-  <img src="https://img.shields.io/badge/Material%20UI-0081CB.svg?logo=material-ui&style=flat-square">
-  <img src="https://img.shields.io/badge/Markdown-239120.svg?logo=markdown&style=flat-square">
-  <img src="https://img.shields.io/badge/KaTeX-008080.svg?logo=latex&style=flat-square">
-  <br/>
-  <a href="https://github.com/walkccc/CLRS/pulls"><img src="https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square"></a>
-  <a href="https://github.com/walkccc/CLRS/graphs/contributors"><img src="https://img.shields.io/github/contributors/walkccc/CLRS.svg?style=flat-square"></a>
-  <a href="https://github.com/walkccc/CLRS/blob/master/LICENSE"><img src="https://img.shields.io/github/license/walkccc/CLRS.svg?style=flat-square"></a>
 </div>
+
 
 ## Why Off-line Edition?
 
