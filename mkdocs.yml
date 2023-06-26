@@ -1,22 +1,23 @@
-# Project information
+# Project information 
 site_name: CLRS Solutions
 site_description: Solutions to Introduction to Algorithms Third Edition. CLRS Solutions. The textbook that a Computer Science (CS) student must read.
 site_author: robinyqc
 site_url: https://CLRS.robinyqc.cn/CLRS
 
-# Repository
+# Repository 
 repo_name: robinyqc/CLRS-Solution
 repo_url: https://github.com/robinyqc/CLRS-Solution
 
-# Copyright
+# Copyright 
 copyright: Built by <a href="http://robinyqc.cn"> robinyqc.</a> Forked form <a href="https://github.com/walkccc/CLRS"> walkccc.me</a>.
 
 # Configuration
 theme:
-  name: material
-  language: en
-  custom_dir: custom
-  favicon: assets/favicon.png
+  name: material # 不能改
+  # language: zh # 中文   
+  language: en # English 
+  custom_dir: custom # 不能改
+  favicon: assets/favicon.png 
   palette:
     # Light mode
     - media: '(prefers-color-scheme: light)'
@@ -41,17 +42,21 @@ theme:
     logo: fontawesome/solid/earth-americas
     repo: fontawesome/brands/github
 
+  features:
+    # - navigation.tabs # 这一项将 nav 的顶级标题置顶
+    - navigation.top # 返回顶部标签
+
 # Customization
 extra:
   social:
-    - icon: fontawesome/brands/github
+    - icon: fontawesome/brands/github 
       link: https://github.com/robinyqc
 
 extra_javascript:
-  - js/mathjax/tex-chtml.js
+  - js/mathjax/tex-chtml.js # 不能改
 
 
-# Extensions
+# Extensions 不能改
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -61,6 +66,9 @@ markdown_extensions:
   - toc:
       permalink: false
 
+# 目录（导航）
+# 格式： - 名称: 路径（通常是相对路径）
+# 使用缩进来表示子目录。
 nav:
   - Preface: index.md
   - I Foundations:
